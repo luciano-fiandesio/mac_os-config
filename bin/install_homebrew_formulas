@@ -11,6 +11,9 @@ if ! command -v brew > /dev/null; then
   printf "export PATH=\"/usr/local/bin:$PATH\"\n" >> $HOME/.bash_profile
 fi
 
+# z
+brew install z
+
 # Readline
 brew install readline
 
@@ -27,7 +30,7 @@ brew install bash
 brew install bash-completion
 
 # chruby
-brew install chruby
+#brew install chruby
 
 # cloc
 brew install cloc
@@ -42,16 +45,16 @@ brew install ctags
 brew install diff-so-fancy
 
 # direnv
-brew install direnv
+#brew install direnv
 
 # ExifTool
-brew install exiftool
+#brew install exiftool
 
 # Elasticsearch
-brew install elasticsearch
+#brew install elasticsearch
 
 # Elm
-brew install elm
+#brew install elm
 
 # FFmpeg
 brew install ffmpeg
@@ -60,19 +63,19 @@ brew install ffmpeg
 brew install flac
 
 # FZF
-brew install fzf
+#brew install fzf
 
 # GDBM
-brew install gdbm
+#brew install gdbm
 
 # Gifsicle
-brew install gifsicle
+#brew install gifsicle
 
 # Git
 brew install git
 
 # Go
-brew install go
+brew install gopass
 
 # GPG
 brew install gpg
@@ -81,13 +84,13 @@ brew install gpg
 brew install gpg-agent
 
 # Graphviz
-brew install graphviz
+#brew install graphviz
 
 # hr
 brew install hr
 
 # Htop
-brew install htop
+#brew install htop
 
 # HTTPie
 brew install httpie
@@ -96,7 +99,7 @@ brew install httpie
 brew install imagemagick
 
 # Ioping
-brew install ioping
+#brew install ioping
 
 # JSON CLI Parser
 brew install jq
@@ -108,88 +111,103 @@ brew install libffi
 brew install libyaml
 
 # lnav
-brew install lnav
+#brew install lnav
 
 # Lynis
-brew install lynis
+#brew install lynis
 
 # Mac App Store CLI
 brew install mas
 
 # Memcached
-brew install memcached
+#brew install memcached
 
 # Mercurial
-brew install hg
+#brew install hg
 
 # Mosh
-brew install mobile-shell
+#brew install mobile-shell
+
+# Mutt
+brew install mutt
 
 # Namebench
-brew install namebench
+#brew install namebench
 
 # Network Grep
-brew install ngrep
+#brew install ngrep
 
 # Nginx
-brew install nginx
+#brew install nginx
 
 # Node
 brew install node
 
 # Overmind
-brew install overmind
+#brew install overmind
 
 # Parallel
-brew install parallel
+#brew install parallel
 
 # Peco
-brew install peco
+#brew install peco
+
+# Pinentry (gpg)
+brew install pinentry-mac
+
+# Python
+brew install python
 
 # pgcli
-brew install pgcli
+#brew install pgcli
 
 # Phantom.js
-brew install phantomjs
+#brew install phantomjs
 
 # Pigz
-brew install pigz
+#brew install pigz
 
 # Pipe Viewer
-brew install pv
+#brew install pv
 
 # PostgreSQL
-brew install postgresql
+#brew install postgresql
 
 # Ranger
-brew install ranger
+#brew install ranger
 
 # Redis
-brew install redis
+#brew install redis
 
 # Ruby Install
-brew install ruby-install
+#brew install ruby-install
 
 # Rust
-brew install rust
+#brew install rust
+
+# ssh copy
+brew install ssh-copy-id
 
 # ShellCheck
-brew install shellcheck
+#brew install shellcheck
 
 # Tag
-brew install tag
+#brew install tag
 
 # Terminal Notifier
-brew install terminal-notifier
+# brew install terminal-notifier
 
 # Terraform
-brew install terraform
+#brew install terraform
+
+# Rsync
+brew install rsync
 
 # The Silver Searcher
 brew install the_silver_searcher
 
 # Tig
-brew install tig
+#brew install tig
 
 # tmux
 brew install tmux
@@ -201,17 +219,25 @@ brew install tree
 # Vim
 brew install vim
 
+# youtube-dl
+brew install youtube-dl
+
 # Watchman
-brew install watchman
+#brew install watchman
 
 # Wry
-brew install wry
+#brew install wry
 
 # Yank
-brew install yank
+#brew install yank
 
 # Yarn
-brew install yarn
+#brew install yarn
 
 # Z
-brew install z
+#brew install z
+
+# Yubikey
+brew install libyubikey
+brew install yubico-piv-tool
+brew install ykpers

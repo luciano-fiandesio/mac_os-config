@@ -21,6 +21,11 @@ export REPO_SUBLIME_TEXT_SETUP=v7.0.0
 export REPO_DOTFILES=v28.0.0
 
 # Applications
+
+export ARQ_APP_NAME="Arq.app"
+export ARQ_APP_URL="https://www.arqbackup.com/download/Arq.dmg"
+export ARQ_VOLUME_NAME="Arq Installer"
+
 export CHEATSHEET_APP_NAME=CheatSheet.app
 export CHEATSHEET_APP_URL="https://www.cheatsheetapp.com/CheatSheet/download.php"
 
