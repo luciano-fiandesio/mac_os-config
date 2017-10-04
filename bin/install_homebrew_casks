@@ -23,12 +23,12 @@ brew cask install displaycal
 brew cask install docker
 brew cask install dropbox
 brew cask install evernote
-brew cask install ffmpegx
+#brew cask install ffmpegx
 brew cask install firefox
 brew cask install google-chrome
 brew cask install gopro-studio
 brew cask install handbrake
-brew cask install handbrakebatch
+#brew cask install handbrakebatch
 brew cask install hazel
 brew cask install imageoptim
 #brew cask install istat-menus
@@ -54,6 +54,7 @@ brew cask install postbox
 brew cask install qlstephen
 #brew cask install rescuetime
 #brew cask install sonos
+brew cask install resilio-sync
 brew cask install spectacle
 brew cask install sublime-text
 brew cask install textual
@@ -61,8 +62,8 @@ brew cask install torbrowser
 #brew cask install trailer
 brew cask install transmit
 brew cask install ubersicht
-brew cask install vagrant
 brew cask install virtualbox
+brew cask install vagrant
 #brew cask install viscosity
 brew cask install visual-studio-code
 brew cask install vlc
