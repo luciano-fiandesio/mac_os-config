@@ -13,6 +13,7 @@ brew cask install alfred
 brew cask install bartender
 brew cask install caffeine
 brew cask install calibre
+brew cask install cleanmymac
 brew cask install displaycal
 #brew cask install carbon-copy-cloner
 #brew cask install cloak
