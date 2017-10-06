@@ -1,9 +1,16 @@
 # APPLICATIONS
 
-
 # Alfred
-#/Users/luciano/Library/Application Support/Alfred 3
+/Users/luciano/Library/Application Support/Alfred 3
 
+# Journey
+/Users/luciano/Library/Application Support/Journey2
+
+# Keybase
+/Users/luciano/Library/Application Support/Keybase
+
+# Keybase
+/Users/luciano/Library/Application Support/Postbox
 
 # Bartender
 #/Users/bkuhlmann/Library/Preferences/com.surteesstudios.Bartender.plist
@@ -15,7 +22,8 @@
 #/Users/bkuhlmann/Library/Preferences/com.apple.imservice.ids.FaceTime.plist
 
 # Fantastical
-#/Users/bkuhlmann/Library/Preferences/com.flexibits.fantastical.plist
+# /Applications/Fantastical 2.app -- this is manual!
+/Users/luciano/Library/Containers/com.flexibits.fantastical2.mac
 
 # Finder
 #/Users/bkuhlmann/Library/Preferences/com.apple.finder.plist
@@ -26,11 +34,8 @@
 # Google Chrome
 #/Users/bkuhlmann/Library/Preferences/com.google.Chrome.plist
 
-
 # iTerm
 #/Users/bkuhlmann/Library/Preferences/com.googlecode.iterm2.plist
-
-
 
 # Marked 2
 #/Users/bkuhlmann/Library/Preferences/com.brettterpstra.marked2.LSSharedFileList.plist
@@ -41,10 +46,8 @@
 #/Users/luciano/Library/Preferences/com.cocoatech.PathFinder.LSSharedFileList.plist
 /Users/luciano/Library/Preferences/com.cocoatech.PathFinder.plist
 
-
 # Paw
 #/Users/bkuhlmann/Library/Preferences/com.luckymarmot.Paw.plist
-
 
 # VLC
 #/Users/bkuhlmann/Library/Application Support/org.videolan.vlc
@@ -73,5 +76,6 @@
 #/Users/bkuhlmann/.travis
 #/Users/bkuhlmann/.trc
 #/Users/bkuhlmann/.z
+/Users/luciano/projects
 /Users/luciano/btsync
 /Users/luciano/Dropbox

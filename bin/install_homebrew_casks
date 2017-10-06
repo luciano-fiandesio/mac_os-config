@@ -5,6 +5,9 @@
 
 brew cask install 1password
 brew cask install adium
+
+# Adobe Creative Cloud requires manual installation
+# Execute open /usr/local/Caskroom/adobe-creative-cloud/latest/Creative\ Cloud\ Installer.app/
 brew cask install adobe-creative-cloud
 brew cask install android-platform-tools
 brew cask install arq
@@ -35,6 +38,9 @@ brew cask install imageoptim
 brew cask install iterm2
 #brew cask install kap
 brew cask install keybase
+
+# Little Snitch requires manual installation!
+# Execute open /usr/local/Caskroom/little-snitch/4.0.3/LittleSnitch-4.0.3.dmg
 brew cask install little-snitch
 #brew cask install ksdiff
 #brew cask install marp
@@ -51,7 +57,7 @@ brew cask install paw
 brew cask install postbox
 #brew cask install pgadmin4
 #brew cask install psequel
-brew cask install qlstephen
+#brew cask install qlstephen
 #brew cask install rescuetime
 #brew cask install sonos
 brew cask install resilio-sync
@@ -60,11 +66,15 @@ brew cask install sublime-text
 brew cask install textual
 brew cask install torbrowser
 #brew cask install trailer
-brew cask install transmit
+#brew cask install transmit
 brew cask install ubersicht
 brew cask install virtualbox
 brew cask install vagrant
 #brew cask install viscosity
+brew cask install veracrypt
 brew cask install visual-studio-code
 brew cask install vlc
 brew cask install xld
+
+# Special apps
+# - transmit

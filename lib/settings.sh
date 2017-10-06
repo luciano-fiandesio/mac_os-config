@@ -22,21 +22,17 @@ export REPO_DOTFILES=v28.0.0
 
 # Applications
 
-export ARQ_APP_NAME="Arq.app"
-export ARQ_APP_URL="https://www.arqbackup.com/download/Arq.dmg"
-export ARQ_VOLUME_NAME="Arq Installer"
+export JOURNEY_APP_NAME="Journey.app"
+export JOURNEY_APP_URL="https://releases-journey.2appstudio.com/download/osx?filetype=dmg"
+export JOURNEY_VOLUME_NAME="Journey"
 
-export CHEATSHEET_APP_NAME=CheatSheet.app
-export CHEATSHEET_APP_URL="https://www.cheatsheetapp.com/CheatSheet/download.php"
-
-export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
-export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
-export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
 
 export SUBLIME_URL_HANDLER_APP_NAME="SublHandler.app"
 export SUBLIME_URL_HANDLER_APP_URL="https://github.com/downloads/asuth/subl-handler/SublHandler.zip"
 
 export SUBLIME_TEXT_EXTENSION_ROOT="$HOME/Library/Application Support/Sublime Text 3/Packages"
+export ACEJUMP_EXTENSION_PATH="$SUBLIME_TEXT_EXTENSION_ROOT/AceJump"
+export ACEJUMP_EXTENSION_URL="https://github.com/ice9js/ace-jump-sublime.git"
 export ADVANCED_NEW_FILE_EXTENSION_PATH="$SUBLIME_TEXT_EXTENSION_ROOT/AdvancedNewFile"
 export ADVANCED_NEW_FILE_EXTENSION_URL="https://github.com/skuroda/Sublime-AdvancedNewFile.git"
 export ALIGNMENT_EXTENSION_PATH="$SUBLIME_TEXT_EXTENSION_ROOT/Alignment"

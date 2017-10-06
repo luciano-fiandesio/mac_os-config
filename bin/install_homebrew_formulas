@@ -129,7 +129,7 @@ brew install mas
 #brew install mobile-shell
 
 # Mutt
-brew install mutt
+brew install mutt --with-gpgme
 
 # Namebench
 #brew install namebench
@@ -189,7 +189,7 @@ brew install python
 brew install ssh-copy-id
 
 # ShellCheck
-#brew install shellcheck
+brew install shellcheck
 
 # Tag
 #brew install tag
@@ -232,7 +232,7 @@ brew install youtube-dl
 #brew install yank
 
 # Yarn
-#brew install yarn
+brew install yarn
 
 # Z
 #brew install z
