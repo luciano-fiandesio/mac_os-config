@@ -63,7 +63,7 @@ brew install ffmpeg
 brew install flac
 
 # FZF
-#brew install fzf
+brew install fzf
 
 # GDBM
 #brew install gdbm
@@ -216,6 +216,9 @@ brew install reattach-to-user-namespace
 # Tree
 brew install tree
 
+# unrar
+brew install unrar
+
 # Vim
 brew install vim
 
@@ -233,6 +236,8 @@ brew install youtube-dl
 
 # Yarn
 brew install yarn
+
+brew install wget
 
 # Z
 #brew install z
