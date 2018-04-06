@@ -81,5 +81,6 @@ brew cask install visual-studio-code
 brew cask install vlc
 brew cask install xld
 brew cask install xee
+brew cask install mpv
 # Special apps
 # - transmit
