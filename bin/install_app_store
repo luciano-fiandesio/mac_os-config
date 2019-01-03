@@ -14,127 +14,49 @@ fi
 # Microsoft Remote Desktop
 mas install 715768417
 
-# Tick Tick
-mas install 966085870
+# Trello
 
-# Acorn
-#mas install 1019272813
+mas install 1278508951
 
-# AquaPath
-#mas install 424425207
+# Renamer
 
-# CCMenu
-#mas install 603117688
-
-# Cocoa JSON Editor
-#mas install 442160773
-
-# DaisyDisk
-mas install 411643860
-
-# Day One
-#mas install 1055511498
-
-# Deliveries
-#mas install 924726344
-
-# Fantastical
-# mas install 975937182
-
-# GarageBand
-# mas install 682658836
-
-# Gif Brewery
-mas install 1081413713
-
-# Undock
-mas install 402359583
-
-# Photobulk
-mas install 537211143
-
-# Gradient
-# mas install 481981128
+mas install 402286241
 
 # iMovie
 mas install 408981434
 
-# Microsoft One Note
-mas install 78480155
-# iPhoto
-# mas install 408981381
+# Skitch
 
-# Kaleidoscope
-# mas install 587512244
+mas install 425955336
 
-# Key Codes
-#mas install 414568915
+# Undock
 
-# Keymo
-# mas install 449863619
+mas install 402359583
 
-# Keynote
-# mas install 409183694
+# YubiKey Personalization Tool
 
-# Kindle
-# mas install 405399194
+mas install 638161122
 
-# Leech
-# mas install 1101735327
+# Dayone
 
-# Marked 2
-# mas install 890031187
+mas install 1055511498
 
-# Medis
-# mas install 1063631769
+# logtail
 
-# MoneyWell
-#mas install 404246493
+mas install 1073404370
 
-# Moom
-# mas install 419330170 --> use spectacle
+# DaisyDisk
+mas install 411643860
 
-# Name Mangler
-#mas install 603637384
+# Gif Brewery
 
-# Numbers
-#mas install 409203825
+mas install 1081413713
 
-# OmniFocus
-#mas install 867299399
+# Photobulk
 
-# OmniOutliner
-#mas install 404478020
+mas install 537211143
 
-# Pages
-#mas install 409201541
+# Mediainfo
 
-# Patterns
-#mas install 429449079
+mas install 510620098
 
-# PDFpenPro
-#mas install 403758325
-
-# Pixelmator
-#mas install 407963104
-
-# Prepo
-#mas install 476533227
-
-# Slack
-#mas install 803453959
-
-# Sip
-#mas install 507257563
-
-# Tweetbot
-#mas install 557168941
-
-# WiFi Explorer
-#mas install 494803304
-
-# Witch
-#mas install 412485838
-
-# xScope
-#mas install 447661441
