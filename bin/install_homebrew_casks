@@ -36,7 +36,7 @@ brew cask install imageoptim
 brew cask install iterm2
 brew cask install keka
 brew cask install keybase
-brew cask install karabiner-elements 
+brew cask install karabiner-elements
 brew cask install little-snitch
 brew cask install makemkv
 brew cask install microsoft-remote-desktop-beta
