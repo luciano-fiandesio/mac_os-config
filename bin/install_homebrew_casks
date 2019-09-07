@@ -36,11 +36,13 @@ brew cask install imageoptim
 brew cask install iterm2
 brew cask install keka
 brew cask install keybase
+brew cask install karabiner-elements 
 brew cask install little-snitch
 brew cask install makemkv
 brew cask install microsoft-remote-desktop-beta
 brew cask install mp3tag
 brew cask install mpv
+brew cask install notion
 brew cask install nvalt
 brew cask install onedrive
 brew cask install osxfuse
@@ -51,6 +53,7 @@ brew cask install postman
 brew cask install resilio-sync
 brew cask install skype
 brew cask install slack
+brew cask install spotify
 brew cask install spectacle
 brew cask install sublime-merge
 brew cask install sublime-text
@@ -64,9 +67,18 @@ brew cask install veracrypt
 brew cask install virtualbox
 #brew cask install visual-studio-code
 brew cask install vlc
+brew cask install whatsapp
 brew cask install xee
 brew cask install xld
 
 # Special apps
 # - transmit
 # - typinator
+# - coolant
+# - kaleidoscope
+# - contexts
+# - ubar
+# - Exact Scan pro
+# - omnigraffle
+# - cloudmounter
+
